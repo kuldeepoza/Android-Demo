@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">DemoBaseProject</string>
+
+    <!-- Strings related to volley error -->
+    <string name="error_server_error">Server Error</string>
+    <string name="error_server_slow">Server Error</string>
+    <string name="error_not_found">Not Found</string>
+
+    <!-- Strings related to toolbar title -->
+    <string name="toolbar_title_fragment">MainFragment</string>
+
+    <string name="request_loading">Loading…</string>
+
+    <string name="permission_denied_feedback">Give Permission</string>
+
+    <string name="btn_settings">SETTINGS</string>
+    <string name="btn_retry">Retry</string>
+    <string name="btn_imsure">I\'m Sure</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
